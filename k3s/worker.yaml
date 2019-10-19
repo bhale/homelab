@@ -2,6 +2,6 @@ k3os:
   k3s_args:
   - agent
   - "--server=https://10.0.0.20:6443"
-  - "--token=K10f0075b91b8846bc14f794bb7e7320be4d02327e9475d7ce8597d6db2588ece4a::node:3b339c81939d42200a12086252f0bb4c"
+  - "--token=TOKENHERE"
 ssh_authorized_keys:
 - github:bhale
